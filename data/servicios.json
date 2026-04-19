@@ -5,7 +5,8 @@
     "descripcion_corta": "Realizamos canalización de vías intravenosas y administración de medicamentos con técnica segura y profesional.",
     "descripcion_larga": "Ofrecemos el servicio de canalización de vías intravenosas con altos estándares de calidad, garantizando un procedimiento seguro, higiénico y eficiente. Nuestro personal capacitado se encarga de la correcta administración de medicamentos, sueros o tratamientos indicados por el médico, asegurando el bienestar del paciente en todo momento. Este servicio es ideal para quienes requieren terapias continuas sin necesidad de trasladarse a un centro médico.",
     "imagen": "https://bayroncruz-web.github.io/servicios-api/assets/CanalizacionVias.jpeg",
-    "requiere_prescripcion": true
+    "requiere_prescripcion": true,
+    "imagen_ilustrativa": false
   },
   {
     "id": 2,
@@ -13,7 +14,8 @@
     "descripcion_corta": "Aplicación de inyecciones intramusculares, subcutáneas o intravenosas con total seguridad y cuidado profesional.",
     "descripcion_larga": "Brindamos el servicio de aplicación de inyectables siguiendo protocolos clínicos adecuados para garantizar la seguridad del paciente. Ya sea por tratamiento médico o control de alguna condición, nuestro personal administra los medicamentos de forma precisa, reduciendo molestias y evitando complicaciones. Ideal para pacientes que requieren continuidad en su tratamiento sin salir de casa.",
     "imagen": "https://bayroncruz-web.github.io/servicios-api/assets/prueba_horizontal.jpg",
-    "requiere_prescripcion": true
+    "requiere_prescripcion": true,
+    "imagen_ilustrativa": false
   },
   {
     "id": 3,
@@ -21,7 +23,8 @@
     "descripcion_corta": "Realizamos perforaciones de manera segura, higiénica y profesional.",
     "descripcion_larga": "Ofrecemos el servicio de perforaciones utilizando materiales estériles y técnicas adecuadas para evitar infecciones o complicaciones. Nos enfocamos en brindar un procedimiento rápido, seguro y con el menor nivel de molestia posible, garantizando la correcta cicatrización posterior.",
     "imagen": "https://bayroncruz-web.github.io/servicios-api/assets/Perforaciones.jpg",
-    "requiere_prescripcion": false
+    "requiere_prescripcion": false,
+    "imagen_ilustrativa": false
   },
   {
     "id": 4,
@@ -29,7 +32,8 @@
     "descripcion_corta": "Atención especializada en la limpieza, tratamiento y seguimiento de heridas y úlceras.",
     "descripcion_larga": "Ofrecemos cuidados profesionales para la curación de heridas, úlceras y lesiones cutáneas, utilizando técnicas y materiales adecuados para promover una cicatrización óptima. Realizamos limpieza, desinfección, cambio de apósitos y seguimiento continuo del estado de la herida. Este servicio es fundamental para prevenir infecciones y mejorar la recuperación del paciente.",
     "imagen": "https://bayroncruz-web.github.io/servicios-api/assets/CuracionUlceras.png",
-    "requiere_prescripcion": false
+    "requiere_prescripcion": false,
+    "imagen_ilustrativa": true
   },
   {
     "id": 5,
@@ -37,7 +41,8 @@
     "descripcion_corta": "Colocación segura de sondas vesicales y nasogástricas con técnica profesional y atención personalizada.",
     "descripcion_larga": "Brindamos el servicio de colocación de sondas vesicales y nasogástricas bajo estrictas normas de asepsia y cuidado. Nuestro personal está capacitado para realizar el procedimiento de forma segura, minimizando molestias y riesgos. Además, ofrecemos orientación sobre el manejo y cuidado de las sondas para asegurar el bienestar del paciente en casa.",
     "imagen": "https://bayroncruz-web.github.io/servicios-api/assets/colocacionSonda.jpg",
-    "requiere_prescripcion": false
+    "requiere_prescripcion": false,
+    "imagen_ilustrativa": false
   },
   {
     "id": 6,
@@ -45,7 +50,8 @@
     "descripcion_corta": "Retiro de puntos de sutura de manera cuidadosa, rápida y sin complicaciones.",
     "descripcion_larga": "Realizamos el retiro de hilos o puntos de sutura con técnicas seguras que minimizan el dolor y previenen infecciones. Evaluamos previamente la cicatrización de la herida para asegurar que el procedimiento sea oportuno y adecuado. Nuestro objetivo es brindar un servicio cómodo y confiable, evitando al paciente desplazamientos innecesarios.",
     "imagen": "https://bayroncruz-web.github.io/servicios-api/assets/RetiroHilos.jpeg",
-    "requiere_prescripcion": false
+    "requiere_prescripcion": false,
+    "imagen_ilustrativa": false
   },
   {
     "id": 7,
@@ -53,6 +59,7 @@
     "descripcion_corta": "Atención integral en el hogar para adultos mayores con monitoreo constante y acompañamiento profesional.",
     "descripcion_larga": "Contamos con personal especializado en cuidados paliativos, enfocado en brindar atención integral a pacientes con enfermedades crónicas o en etapas avanzadas. Nuestro servicio incluye control del dolor, apoyo emocional, acompañamiento al paciente y su familia, así como la realización de procedimientos necesarios para su bienestar. Nos comprometemos a ofrecer un trato humano, respetuoso y digno en cada etapa del cuidado.",
     "imagen": "https://bayroncruz-web.github.io/servicios-api/assets/CuidadosPaliativos.png",
-    "requiere_prescripcion": false
+    "requiere_prescripcion": false,
+    "imagen_ilustrativa": true
   }
 ]
