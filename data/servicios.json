@@ -1,8 +1,8 @@
 [
   {
     "id": 1,
-    "titulo": "Canalización de vías y colocación de medicamento intravenoso",
-    "descripcion_corta": "Realizamos canalización de vías intravenosas y administración de medicamentos con técnica segura y profesional, directamente en la comodidad de tu hogar.",
+    "titulo": "Colocación de medicamento intravenoso",
+    "descripcion_corta": "Realizamos canalización de vías intravenosas y administración de medicamentos con técnica segura y profesional.",
     "descripcion_larga": "Ofrecemos el servicio de canalización de vías intravenosas con altos estándares de calidad, garantizando un procedimiento seguro, higiénico y eficiente. Nuestro personal capacitado se encarga de la correcta administración de medicamentos, sueros o tratamientos indicados por el médico, asegurando el bienestar del paciente en todo momento. Este servicio es ideal para quienes requieren terapias continuas sin necesidad de trasladarse a un centro médico.",
     "imagen": "https://bayroncruz-web.github.io/servicios-api/assets/CanalizacionVias.jpeg",
     "requiere_prescripcion": true
