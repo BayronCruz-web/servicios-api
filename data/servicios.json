@@ -13,7 +13,7 @@
     "titulo": "Aplicación de inyecciones",
     "descripcion_corta": "Aplicación de inyecciones intramusculares, subcutáneas o intravenosas con total seguridad y cuidado profesional.",
     "descripcion_larga": "Brindamos el servicio de aplicación de inyectables siguiendo protocolos clínicos adecuados para garantizar la seguridad del paciente. Ya sea por tratamiento médico o control de alguna condición, nuestro personal administra los medicamentos de forma precisa, reduciendo molestias y evitando complicaciones. Ideal para pacientes que requieren continuidad en su tratamiento sin salir de casa.",
-    "imagen": "https://bayroncruz-web.github.io/servicios-api/assets/prueba_horizontal.jpg",
+    "imagen": "https://bayroncruz-web.github.io/servicios-api/assets/AplicacionInyecciones.jpg",
     "requiere_prescripcion": true,
     "imagen_ilustrativa": false
   },
@@ -58,8 +58,8 @@
     "titulo": "Cuidados paliativos",
     "descripcion_corta": "Atención integral en el hogar para adultos mayores con monitoreo constante y acompañamiento profesional.",
     "descripcion_larga": "Contamos con personal especializado en cuidados paliativos, enfocado en brindar atención integral a pacientes con enfermedades crónicas o en etapas avanzadas. Nuestro servicio incluye control del dolor, apoyo emocional, acompañamiento al paciente y su familia, así como la realización de procedimientos necesarios para su bienestar. Nos comprometemos a ofrecer un trato humano, respetuoso y digno en cada etapa del cuidado.",
-    "imagen": "https://bayroncruz-web.github.io/servicios-api/assets/CuidadosPaliativos.png",
+    "imagen": "https://bayroncruz-web.github.io/servicios-api/assets/CuidadosPaliativos.jpg",
     "requiere_prescripcion": false,
-    "imagen_ilustrativa": true
+    "imagen_ilustrativa": false
   }
 ]
